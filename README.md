@@ -1,2 +1,2 @@
-# Tempo
-A test learning repository
+# Test
+This is a little info about myself. 
